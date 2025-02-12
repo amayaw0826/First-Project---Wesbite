@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    color:rgb(203, 178, 236);
+    background-color: rgb(241, 241, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    max-width: 45vw;
+    max-height: 50vh;
+    border-radius: 45%;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+h1,p{
+    display:flex;
+    justify-content: center;
+}
